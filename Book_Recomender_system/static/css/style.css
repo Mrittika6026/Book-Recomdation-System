@@ -1,0 +1,15 @@
+body{
+   background-color: #E0FFFF;
+}
+
+.bg-nav{
+    background: #2F4F4F;
+}
+
+.mt-100{
+   margin-top: 100px;
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
